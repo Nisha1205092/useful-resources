@@ -1,6 +1,9 @@
 # Miscellaneous Resources
 
 ## Front-end libraries
+
+<details> 
+<summary>view more</summary>
 ### React:
 
 1. [developerway.com](https://www.developerway.com/?filter=react).   
@@ -21,6 +24,9 @@ With p5.js, you can create animations, generative art, games, data visualization
 </details>   
 
 ![p5js](./images/p5js.png)  
+
+
+</details>
   
 
 
