@@ -4,7 +4,7 @@
 
 <details> 
 <summary>view more</summary>
-### React:
+<h3> React: </h3>
 
 1. [developerway.com](https://www.developerway.com/?filter=react).   
 ###### tags: `frontend` `react` `blog` 
