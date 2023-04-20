@@ -2,11 +2,12 @@
 
 ## Front-end libraries
 ### React:
+<details>
 1. [developerway.com](https://www.developerway.com/?filter=react).   
 
 ![developerway ss](./images/developerway.png)
 ###### tags: `frontend` `react` `blog` 
-
+</details>
 ### P5.js:
 1. [p5.js](https://p5js.org/)   
 <details><summary>Brief description about p5.js from ChatGPT</summary>
