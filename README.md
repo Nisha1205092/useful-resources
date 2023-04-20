@@ -16,9 +16,9 @@ It is a JavaScript library that makes it easy to create interactive graphics and
 <p>
 With p5.js, you can create animations, generative art, games, data visualizations, and other interactive projects directly in your web browser using JavaScript. The library is open source and has a large community of users and contributors, which means there are many resources and examples available to help you get started and learn more about p5.js.    
 </p>
+![p5js](./images/p5js.png)  
 </details>   
   
-![p5js](./images/p5js.png)  
 ###### tags: `opensource` `animation` `creative design/coding` `interactive graphics` `data visualization` 
 
 
