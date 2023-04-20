@@ -11,10 +11,10 @@
 
 ![developerway ss](./images/developerway.png)
 
-### P5.js:
+<h3> P5.js: </h3>
 1. [p5.js](https://p5js.org/)   
 ###### tags: `opensource` `animation` `creative design/coding` `interactive graphics` `data visualization` 
-<details><summary>Brief description about p5.js from ChatGPT</summary>
+<details><summary><h5>Brief description about p5.js from ChatGPT</h5></summary>
 <p>
 It is a JavaScript library that makes it easy to create interactive graphics and animations in a web browser. p5.js is based on the Processing programming language and provides a simple and intuitive API for creating and manipulating graphics, sounds, and interactivity. 
 </p>
