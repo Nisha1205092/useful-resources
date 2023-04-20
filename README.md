@@ -9,7 +9,11 @@
 1. [developerway.com](https://www.developerway.com/?filter=react).   
 ###### tags: `frontend` `react` `blog` 
 
-![developerway ss](./images/developerway.png)
+![developerway ss](./images/developerway.png)    
+
+2. [Interactive way to learn React](https://react.gg/?s=visualized)       
+###### tags: `interactive` `react` `tutorial` `fun` 
+![react.gg ss](./images/reactgg.png)
 
 <h3> P5.js: </h3>   
 
@@ -29,7 +33,16 @@ With p5.js, you can create animations, generative art, games, data visualization
 ![p5js](./images/p5js.png)  
 
 
-</details>
+</details>    
+
+
+## Back-end libraries
+
+## APIs
+
+## Blogs
+
+## 
   
 
 
