@@ -2,11 +2,11 @@
 
 ## Front-end libraries
 ### React:
-<details>
-1. [developerway.com](https://www.developerway.com/?filter=react).   
 
-![developerway ss](./images/developerway.png)
+1. [developerway.com](https://www.developerway.com/?filter=react).   
 ###### tags: `frontend` `react` `blog` 
+<details><summary>View image</summary>
+![developerway ss](./images/developerway.png)
 </details>
 ### P5.js:
 1. [p5.js](https://p5js.org/)   
