@@ -13,7 +13,12 @@
 
 2. [Interactive way to learn React](https://react.gg/?s=visualized)       
 ###### tags: `interactive` `react` `tutorial` `fun` 
-![react.gg ss](./images/reactgg.png)
+![react.gg ss](./images/reactgg.png)    
+
+3. [The most common React Design Patterns-Part1](https://www.linkedin.com/pulse/most-common-react-design-patterns-baqir-nekfar/)    
+[The most common React Design Patterns-Part2](https://www.linkedin.com/pulse/most-common-react-design-patterns-part2-baqir-nekfar/)    
+
+###### tags: `Design Pattern` `react` `Blog` 
 
 <h3> P5.js: </h3>   
 
