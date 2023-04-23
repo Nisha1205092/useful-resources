@@ -6,7 +6,7 @@
 <summary>view more</summary>
 <h3> React: </h3>    
 
-<details><summary></summary>    
+<details><summary><h4>React</h4></summary>    
 
 1. [developerway.com](https://www.developerway.com/?filter=react).   
 ###### tags: `frontend` `react` `blog` 
