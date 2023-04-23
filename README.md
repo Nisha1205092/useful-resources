@@ -3,7 +3,6 @@
 <details> 
 <summary><h2>Front-end Libraries</h2></summary>
    
-
 &nbsp;&nbsp;<details>
 <summary><h3> React: </h3></summary>    
 
