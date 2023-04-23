@@ -25,6 +25,7 @@
 <details>
 <summary><h3> JavaScript Libraries </h3></summary>
 <h3> P5.js: </h3>   
+
 1. [p5.js](https://p5js.org/)     
 
 ###### tags: `opensource` `animation` `creative design/coding` `interactive graphics` `data visualization`   
@@ -38,7 +39,13 @@ With p5.js, you can create animations, generative art, games, data visualization
 </p>
 </details>   
  
-![p5js](./images/p5js.png)  
+![p5js](./images/p5js.png)    
+
+2. [Typing and Deleting Effect](https://usefulangle.com/post/75/typing-effect-animation-javascript-css)     
+
+3. [Typewriter Effect](https://www.npmjs.com/package/typewriter-effect)
+
+4. [Cool Animation for Login](https://codepen.io/m3eu/pen/VwYBbwO)    
 
 
 </details>    
@@ -46,7 +53,11 @@ With p5.js, you can create animations, generative art, games, data visualization
 <summary><h3>CSS</h3></summary>     
 
 1. [Fun with Viewport Units](https://css-tricks.com/fun-viewport-units/)    
-
+2. [Precision Responsive Typography](https://codepen.io/MadeByMike/pen/YPJJYv)    
+3. [Simplified Fluid Typography](https://css-tricks.com/simplified-fluid-typography/)   
+4. [CSS Display Property](https://developer.mozilla.org/en-US/docs/Web/CSS/display)   
+5. [CSS Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
+6. [Best List of Tutorials for CSS](https://www.freecodecamp.org/news/best-css-and-css3-tutorial/)
 
 </details>
 </details> 
@@ -64,13 +75,12 @@ With p5.js, you can create animations, generative art, games, data visualization
 ###### tags: `map` `location`    
 
 2. [Nasa API](https://api.nasa.gov/).   
-
 3. [Favorite Quotes](https://favqs.com/api)    
-
 4. [DB of Food Items and Recipes with Health Analysis](https://www.edamam.com/)     
-
 5. [Fake e-commerce data](https://fakestoreapi.com/)
-
+6. [How to Use an API](https://rapidapi.com/blog/how-to-use-an-api/)    
+7. [Top AI Based APIs](https://rapidapi.com/collection/ai-based-apis)    
+8. [Free Public APIs for Developers](https://rapidapi.com/collection/list-of-free-apis)
 </details>     
 
 <details>
