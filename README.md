@@ -21,7 +21,6 @@
 ![react design pattern](./images/React%20Design%20Patterns.png)
 
 </details>    
-
   
 <details>
 <summary><h3> JavaScript Libraries </h3></summary>
@@ -29,7 +28,6 @@
 1. [p5.js](https://p5js.org/)     
 
 ###### tags: `opensource` `animation` `creative design/coding` `interactive graphics` `data visualization`   
-
 
 <details><summary><h5>Brief description about p5.js from ChatGPT</h5></summary>
 <p>
