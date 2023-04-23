@@ -58,7 +58,8 @@ With p5.js, you can create animations, generative art, games, data visualization
 
 5. [Fake e-commerce data](https://fakestoreapi.com/)
 
-</details>
+</details>     
+
 ## Blogs
 
 
