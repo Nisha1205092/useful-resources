@@ -17,8 +17,8 @@
 
 3. [The most common React Design Patterns-Part1](https://www.linkedin.com/pulse/most-common-react-design-patterns-baqir-nekfar/)    
 [The most common React Design Patterns-Part2](https://www.linkedin.com/pulse/most-common-react-design-patterns-part2-baqir-nekfar/)    
-
 ###### tags: `Design Pattern` `react` `Blog` 
+![react design pattern](./images/React%20Design%20Patterns.png)
 
 <h3> P5.js: </h3>   
 
