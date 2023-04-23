@@ -58,7 +58,8 @@ With p5.js, you can create animations, generative art, games, data visualization
 3. [Simplified Fluid Typography](https://css-tricks.com/simplified-fluid-typography/)   
 4. [CSS Display Property](https://developer.mozilla.org/en-US/docs/Web/CSS/display)   
 5. [CSS Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
-6. [Best List of Tutorials for CSS](https://www.freecodecamp.org/news/best-css-and-css3-tutorial/)
+6. [Best List of Tutorials for CSS](https://www.freecodecamp.org/news/best-css-and-css3-tutorial/)     
+7. [CSS Layouts](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
 
 </details>
 </details> 
