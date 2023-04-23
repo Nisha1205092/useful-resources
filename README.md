@@ -4,7 +4,9 @@
 
 <details> 
 <summary>view more</summary>
-<h3> React: </h3>
+<h3> React: </h3>    
+
+<details><summary></summary>    
 
 1. [developerway.com](https://www.developerway.com/?filter=react).   
 ###### tags: `frontend` `react` `blog` 
@@ -20,11 +22,15 @@
 ###### tags: `Design Pattern` `react` `Blog` 
 ![react design pattern](./images/React%20Design%20Patterns.png)
 
-<h3> P5.js: </h3>   
+</details>    
 
+<h3> JavaScript Libraries </h3>   
+<details><summary>View more</summary>
+<h3> P5.js: </h3>   
 1. [p5.js](https://p5js.org/)     
 
 ###### tags: `opensource` `animation` `creative design/coding` `interactive graphics` `data visualization`   
+
 
 <details><summary><h5>Brief description about p5.js from ChatGPT</h5></summary>
 <p>
@@ -34,12 +40,12 @@ It is a JavaScript library that makes it easy to create interactive graphics and
 With p5.js, you can create animations, generative art, games, data visualizations, and other interactive projects directly in your web browser using JavaScript. The library is open source and has a large community of users and contributors, which means there are many resources and examples available to help you get started and learn more about p5.js.    
 </p>
 </details>   
-
+ 
 ![p5js](./images/p5js.png)  
 
 
 </details>    
-
+</details> 
 
 ## Back-end libraries
 
