@@ -12,7 +12,7 @@
 ![developerway ss](./images/developerway.png)    
 
 2. [Interactive way to learn React](https://react.gg/?s=visualized)       
-###### tags: `interactive` `react` `tutorial` `fun` 
+###### tags: `interactive` `react` `visualisation` `fun` 
 ![react.gg ss](./images/reactgg.png)    
 
 3. [The most common React Design Patterns-Part1](https://www.linkedin.com/pulse/most-common-react-design-patterns-baqir-nekfar/)    
@@ -44,10 +44,24 @@ With p5.js, you can create animations, generative art, games, data visualization
 ## Back-end libraries
 
 ## APIs
+<details> 
+<summary>view more</summary>   
 
+1. [Mapbox API](https://docs.mapbox.com/api/overview/).   
+###### tags: `map` `location`    
+
+2. [Nasa API](https://api.nasa.gov/).   
+
+3. [Favorite Quotes](https://favqs.com/api)    
+
+4. [DB of Food Items and Recipes with Health Analysis](https://www.edamam.com/)     
+
+5. [Fake e-commerce data](https://fakestoreapi.com/)
+
+</details>
 ## Blogs
 
-## 
+
   
 
 
