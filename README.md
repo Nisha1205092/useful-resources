@@ -3,7 +3,7 @@
 <details> 
 <summary><h2>Front-end Libraries</h2></summary>
    
-&nbsp;&nbsp;<details>
+&ensp;&thinsp;&ensp;&thinsp;<details>
 <summary><h3> React: </h3></summary>    
 
 1. [developerway.com](https://www.developerway.com/?filter=react).   
