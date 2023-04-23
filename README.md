@@ -1,4 +1,5 @@
 # Miscellaneous Resources     
+<p>This is a personal collection of all the resources, tutorials, blogs that I come across and don\'t have time to read them right away. So I keep the links here so that I can come back again and again to read and learn stuff from here. </p>     
 
 <details> 
 <summary><h2>Front-end Libraries</h2></summary>
