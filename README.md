@@ -1,12 +1,11 @@
-# Miscellaneous Resources
-
-## Front-end libraries
+# Miscellaneous Resources     
 
 <details> 
-<summary>view more</summary>
-<h3> React: </h3>    
+<summary><h2>Front-end Libraries</h2></summary>
+   
 
-<details><summary><h4>React</h4></summary>    
+<details>
+<summary><h3> React: </h3></summary>    
 
 1. [developerway.com](https://www.developerway.com/?filter=react).   
 ###### tags: `frontend` `react` `blog` 
@@ -24,8 +23,9 @@
 
 </details>    
 
-<h3> JavaScript Libraries </h3>   
-<details><summary>View more</summary>
+  
+<details>
+<summary><h3> JavaScript Libraries </h3></summary>
 <h3> P5.js: </h3>   
 1. [p5.js](https://p5js.org/)     
 
@@ -47,11 +47,13 @@ With p5.js, you can create animations, generative art, games, data visualization
 </details>    
 </details> 
 
-## Back-end libraries
+<details>
+<summary><h2>Back-end Libraries</h2></summary>
+</details>
 
-## APIs
+
 <details> 
-<summary>view more</summary>   
+<summary><h2>APIs</h2> </summary>   
 
 1. [Mapbox API](https://docs.mapbox.com/api/overview/).   
 ###### tags: `map` `location`    
@@ -66,7 +68,9 @@ With p5.js, you can create animations, generative art, games, data visualization
 
 </details>     
 
-## Blogs
+<details>
+<summary><h2>Blogs</h2></summary>
+</details>
 
 
   
