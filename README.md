@@ -63,9 +63,11 @@ With p5.js, you can create animations, generative art, games, data visualization
 8. [CSS Grid by Example](https://gridbyexample.com/)
 9. [The Experimental Layout Lab, A very interesting website!!!](https://labs.jensimmons.com/)
 10. [Grid Mastery Game](https://gridcritters.com/)
+###### tags: `game`
 11. [Learn CSS Grid by Building 5 Layouts in 17 minutes](https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/)
 12. [Test your skills: Grid](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grid_skills)
 13. [Learn Flex/Grid/RegEx By Playing Games](https://codingfantasy.com/)
+###### tags: `game`
 
 </details>
 </details> 
