@@ -21,6 +21,7 @@
 ###### tags: `Design Pattern` `react` `Blog` 
 ![react design pattern](./images/React%20Design%20Patterns.png)
 
+4. [Thinking in React](https://react.dev/learn/thinking-in-react)
 </details>    
   
 <details>
