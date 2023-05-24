@@ -49,6 +49,7 @@ With p5.js, you can create animations, generative art, games, data visualization
 
 4. [Cool Animation for Login](https://codepen.io/m3eu/pen/VwYBbwO)    
 
+5. [Javascript Visualized - 7 part series](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 
 </details>    
 <details>
