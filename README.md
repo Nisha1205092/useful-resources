@@ -51,7 +51,8 @@ With p5.js, you can create animations, generative art, games, data visualization
 
 5. [Javascript Visualized - 7 part series](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 
-</details>    
+</details>  
+</details>  
 <details>
 <summary><h3>CSS</h3></summary>     
 
@@ -72,8 +73,6 @@ With p5.js, you can create animations, generative art, games, data visualization
 ###### tags: `game`
 
 </details>
-</details> 
-
 
 <details>
 <summary><h2>Back-end Libraries</h2></summary>
