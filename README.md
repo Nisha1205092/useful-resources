@@ -99,6 +99,7 @@ With p5.js, you can create animations, generative art, games, data visualization
 <details>
 <summary><h2>Git/Github</h2></summary>
 8. [Free Public APIs for Developers](https://rapidapi.com/collection/list-of-free-apis)
+9. [Git visualizations](https://learngitbranching.js.org/)
 </details>
 
 <details>
