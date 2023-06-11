@@ -83,8 +83,10 @@ With p5.js, you can create animations, generative art, games, data visualization
 
 1. [NodeJS Cheat Sheet](https://zerotomastery.io/cheatsheets/node-js-cheat-sheet/?utm_source=udemy&utm_medium=coursecontent)
 2. [Web Crawling Tools](https://www.softr.io/blog/tools-to-extract-data-from-website)
-</details>
+3. [User Authentication in Web Apps (Passport.js, Node, Express)](https://www.youtube.com/watch?v=F-sFp_AvHc8&t=3978s)
+4. [Web Scraping+Crawling for Beginners](https://docs.apify.com/academy/web-scraping-for-beginners)
 
+</details>
 
 <details> 
 <summary><h2>APIs</h2> </summary>   
