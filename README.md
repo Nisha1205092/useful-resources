@@ -113,6 +113,12 @@ With p5.js, you can create animations, generative art, games, data visualization
 <summary><h2>Blogs</h2></summary>
 </details>
 
+<details>
+<summary><h2>Misc</h2></summary>   
+
+1. [Leetcode Clone](https://www.youtube.com/watch?v=GnodscC2p-A)
+</details>
+
 
 
   
