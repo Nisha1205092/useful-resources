@@ -87,7 +87,7 @@ With p5.js, you can create animations, generative art, games, data visualization
 2. [Web Crawling Tools](https://www.softr.io/blog/tools-to-extract-data-from-website)
 ###### tags: `web scraping/crawling`
 3. [User Authentication in Web Apps (Passport.js, Node, Express)](https://www.youtube.com/watch?v=F-sFp_AvHc8&t=3978s)
-###### tags: `authentication`
+###### tags: `authentication/authorization`
 4. [Web Scraping+Crawling for Beginners](https://docs.apify.com/academy/web-scraping-for-beginners)
 ###### tags: `web scraping/crawling`
 5. [Bulletproof Node.js Project Architecture](https://www.softwareontheroad.com/ideal-nodejs-project-structure/)
@@ -99,7 +99,14 @@ With p5.js, you can create animations, generative art, games, data visualization
 ###### tags: `RegEx`
 9. [RegEx-101--Build, Test and Debug](https://regex101.com/)
 ###### tags: `RegEx`
-
+10. [OAuth in five minutes](https://oauth.net/)
+###### tags: `authentication/authorization`
+11. [Getting Started with OAuth](https://auth0.com/docs/get-started)
+###### tags: `authentication/authorization`
+12. [Master OAuth 2.0 from this guide with modern use cases and real-world examples](https://fusionauth.io/articles/oauth/modern-guide-to-oauth)
+###### tags: `authentication/authorization`
+13. [What is OAuth?](https://www.varonis.com/blog/what-is-oauth)
+<p>OAuth is an authentication protocol that allows you to approve one application interacting with another on your behalf without giving away your password. For example, you can tell Facebook that it’s OK for ESPN.com to access your profile or post updates to your timeline without having to give ESPN your Facebook password. This minimizes risk in a major way: In the event ESPN suffers a breach, your Facebook password remains safe.</p>
 </details>
 
 <details> 
