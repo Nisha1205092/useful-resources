@@ -87,6 +87,7 @@ With p5.js, you can create animations, generative art, games, data visualization
 2. [Web Crawling Tools](https://www.softr.io/blog/tools-to-extract-data-from-website)
 ###### tags: `web scraping/crawling`
 3. [User Authentication in Web Apps (Passport.js, Node, Express)](https://www.youtube.com/watch?v=F-sFp_AvHc8&t=3978s)
+###### tags: `authentication`
 4. [Web Scraping+Crawling for Beginners](https://docs.apify.com/academy/web-scraping-for-beginners)
 ###### tags: `web scraping/crawling`
 5. [Bulletproof Node.js Project Architecture](https://www.softwareontheroad.com/ideal-nodejs-project-structure/)
