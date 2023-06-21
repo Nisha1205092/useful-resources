@@ -82,11 +82,17 @@ With p5.js, you can create animations, generative art, games, data visualization
 <summary><h2>Back-end Libraries</h2></summary>     
 
 1. [NodeJS Cheat Sheet](https://zerotomastery.io/cheatsheets/node-js-cheat-sheet/?utm_source=udemy&utm_medium=coursecontent)
+###### tags: `cheat sheet`
+
 2. [Web Crawling Tools](https://www.softr.io/blog/tools-to-extract-data-from-website)
+###### tags: `web scraping/crawling`
 3. [User Authentication in Web Apps (Passport.js, Node, Express)](https://www.youtube.com/watch?v=F-sFp_AvHc8&t=3978s)
 4. [Web Scraping+Crawling for Beginners](https://docs.apify.com/academy/web-scraping-for-beginners)
+###### tags: `web scraping/crawling`
 5. [Bulletproof Node.js Project Architecture](https://www.softwareontheroad.com/ideal-nodejs-project-structure/)
+###### tags: `architecture/structure`
 6. [Nodejs Passport Login for Express App](https://www.youtube.com/watch?v=-RCnNyD0L-s)
+###### tags: `authentication`
 7. [Using EJS as a Template Engine in your Express App](https://medium.com/@Linda_Ikechukwu/https-medium-com-linda-ikechukwu-using-ejs-as-a-template-engine-in-your-express-app-cb3d82c15e17)
 8. [Regular Expressions-Learn, Build and Test](https://regexr.com/)
 ###### tags: `RegEx`
