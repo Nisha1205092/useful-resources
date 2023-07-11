@@ -22,7 +22,10 @@
 ![react design pattern](./images/React%20Design%20Patterns.png)
 
 4. [Thinking in React](https://react.dev/learn/thinking-in-react)
-</details>    
+</details>
+
+5. [A Complete Guide to Routing in React](https://hygraph.com/blog/routing-in-react)
+
   
 <details>
 <summary><h3> JavaScript Libraries </h3></summary>
@@ -76,6 +79,11 @@ With p5.js, you can create animations, generative art, games, data visualization
 13. [Learn Flex/Grid/RegEx By Playing Games](https://codingfantasy.com/)
 ###### tags: `game`
 14. [Open-Source UI elements for any project](https://uiverse.io/)
+15. [CSS Selectors Cheatsheet](https://frontend30.com/css-selectors-cheatsheet/)
+16. [CSS Selectors Cheatsheet](https://dev.to/dawnind/css3-selectors-cheat-sheet-6dk)
+17. [The Magic Behind styled-compoents--template literals](https://mxstbr.blog/2016/11/styled-components-magic-explained/)
+18. [Complete Guide on How to Use styled-components in React](https://dev.to/elijahtrillionz/complete-guide-on-how-to-use-styled-components-in-react-360c)
+19. [Responsive Styled-components in 3 minutes](https://medium.com/styled-components/responsive-styled-components-in-3-minutes-ae3b58cca57b)
 </details>
 
 <details>
@@ -106,7 +114,9 @@ With p5.js, you can create animations, generative art, games, data visualization
 12. [Master OAuth 2.0 from this guide with modern use cases and real-world examples](https://fusionauth.io/articles/oauth/modern-guide-to-oauth)
 ###### tags: `authentication/authorization`
 13. [What is OAuth?](https://www.varonis.com/blog/what-is-oauth)
-<p>OAuth is an authentication protocol that allows you to approve one application interacting with another on your behalf without giving away your password. For example, you can tell Facebook that it’s OK for ESPN.com to access your profile or post updates to your timeline without having to give ESPN your Facebook password. This minimizes risk in a major way: In the event ESPN suffers a breach, your Facebook password remains safe.</p>
+    <p>OAuth is an authentication protocol that allows you to approve one application interacting with another on your behalf without giving away your password. For example, you can tell Facebook that it’s OK for ESPN.com to access your profile or post updates to your timeline without having to give ESPN your Facebook password. This minimizes risk in a major way: In the event ESPN suffers a breach, your Facebook password remains safe.</p>
+14. [Implementing JWT Auth in Node.js](https://www.sohamkamani.com/nodejs/jwt-authentication/)
+###### tags: `authentication/authorization` `JWT`
 </details>
 
 <details> 
@@ -132,6 +142,19 @@ With p5.js, you can create animations, generative art, games, data visualization
 
 <details>
 <summary><h2>Blogs</h2></summary>
+</details>
+
+<details>
+<summary><h2>Database</h2></summary>   
+
+1. [Introduction to MongoDB](https://learn.mongodb.com/learning-paths/introduction-to-mongodb)
+2. [MongoDB Schema Design Best Practices](https://www.mongodb.com/developer/products/mongodb/mongodb-schema-design-best-practices/#type-of-relationships)
+</details>
+
+<details>
+<summary><h2>Deployment</h2></summary>   
+
+1. [How to deploy MERN app on Vercel](https://www.geeksforgeeks.org/how-to-deploy-mern-application-on-vercel/)
 </details>
 
 <details>
