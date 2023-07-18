@@ -84,6 +84,7 @@ With p5.js, you can create animations, generative art, games, data visualization
 17. [The Magic Behind styled-compoents--template literals](https://mxstbr.blog/2016/11/styled-components-magic-explained/)
 18. [Complete Guide on How to Use styled-components in React](https://dev.to/elijahtrillionz/complete-guide-on-how-to-use-styled-components-in-react-360c)
 19. [Responsive Styled-components in 3 minutes](https://medium.com/styled-components/responsive-styled-components-in-3-minutes-ae3b58cca57b)
+20. [Avatar API](https://www.dicebear.com/playground)
 </details>
 
 <details>
