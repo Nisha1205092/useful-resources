@@ -22,9 +22,9 @@
 ![react design pattern](./images/React%20Design%20Patterns.png)
 
 4. [Thinking in React](https://react.dev/learn/thinking-in-react)
-</details>
 
 5. [A Complete Guide to Routing in React](https://hygraph.com/blog/routing-in-react)
+</details>
 
   
 <details>
